@@ -1,0 +1,6 @@
+Debug/
+Generated/
+packages/
+x64/
+.vs/
+*.vcxproj.user
